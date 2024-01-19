@@ -1,0 +1,16 @@
+DateTime,PlayerName,SessionDuration,AttractingFishScore,HookingFishScore,RetreivingFishScore,sight,audio,haptic,endReason
+14/1/2024 - 10h:47min,Riccardo,71.61929,0.0,0.0,0.0,true,false,true,FishCaught
+14/1/2024 - 10h:51min,Riccardi,85.901245,0.0,0.0,0.0,true,true,true,FishCaught
+14/1/2024 - 10h:55min,,80.148125,0.0,0.0,0.0,true,true,true,FishCaught
+14/1/2024 - 11h:9min,,136.73001,0.0,0.0,0.0,true,true,true,FishCaught
+14/1/2024 - 11h:13min,,75.51121,0.0,0.0,0.0,true,true,true,FishCaught
+14/1/2024 - 11h:32min,,115.35567,0.0,0.0,0.0,true,false,true,FishCaught
+14/1/2024 - 11h:38min,,88.05374,0.0,0.0,0.0,true,true,true,FishCaught
+14/1/2024 - 12h:16min,Riccardo,121.02645,0.0,0.0,0.0,true,false,true,FishCaught
+14/1/2024 - 12h:22min,Riccaor,64.79837,0.0,0.0,0.0,true,false,true,FishCaught
+14/1/2024 - 18h:48min,,220.61018,0.0,0.0,0.0,true,true,true,FishLost
+16/1/2024 - 17h:52min,,36.821526,0.0,0.0,0.0,true,true,true,WireEndedWithoutFish
+16/1/2024 - 18h:2min,adawdawd,63.82678,0.0,0.0,0.0,true,true,true,FishCaught
+16/1/2024 - 18h:7min,,196.45314,0.0,0.0,0.0,true,true,true,FishCaught
+16/1/2024 - 18h:19min,,89.37885,0.0,0.0,0.0,true,true,true,FishCaught
+16/1/2024 - 18h:22min,,52.145016,0.0,0.0,0.0,true,true,true,FishCaught
